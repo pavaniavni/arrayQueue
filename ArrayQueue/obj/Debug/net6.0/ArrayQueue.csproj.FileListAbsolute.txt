@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\bin\Debug\net6.0\ArrayQueue.exe
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\bin\Debug\net6.0\ArrayQueue.deps.json
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\bin\Debug\net6.0\ArrayQueue.runtimeconfig.json
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\bin\Debug\net6.0\ArrayQueue.dll
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\bin\Debug\net6.0\ref\ArrayQueue.dll
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\bin\Debug\net6.0\ArrayQueue.pdb
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.dll
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ref\ArrayQueue.dll
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.pdb
+C:\Users\Pavani\source\repos\ArrayQueue\ArrayQueue\obj\Debug\net6.0\ArrayQueue.genruntimeconfig.cache
